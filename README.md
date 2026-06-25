@@ -94,16 +94,6 @@ I combine **Technology + Creativity + Problem Solving** to build powerful digita
 
 ---
 
-### 💻 Code in Motion
-
-<p align="center">
-  <img src="https://media.giphy.com/media/SkVjqEAAEbDESyN8mh/giphy.gif" alt="Coding animation" width="450" />
-</p>
-
-> 💡 You can swap this GIF for any coding animation you like — search [giphy.com](https://giphy.com) or [tenor.com](https://tenor.com) for "coding," "programming," or "hacker" GIFs, then drop the direct image link in place of the URL above.
-
----
-
 ### 📫 Connect With Me
 
 <p align="left">
