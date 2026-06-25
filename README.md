@@ -94,19 +94,18 @@ I combine **Technology + Creativity + Problem Solving** to build powerful digita
 
 ---
 
-### 🎧 Currently Vibing On
+### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://spotify-github-profile.vercel.app/api/view.svg?uid=YOUR_SPOTIFY_UID&cover_image=true&theme=novatorem&show_offline=true&background_color=121212&interchange=false&bar_color=4F46E5&bar_color_cover=true" alt="Spotify Now Playing" width="450" />
+  <img src="https://github-readme-stats.vercel.app/api?username=arunsah&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=arunsah&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="48%" />
 </p>
 
-> 🎵 This banner shows your **real-time Spotify "Now Playing"** status — perfect for coding-while-listening vibes.
-> Setup (2 minutes, free):
-> 1. Go to [spotify-github-profile.vercel.app](https://spotify-github-profile.vercel.app)
-> 2. Log in with Spotify → copy your generated UID
-> 3. Replace `YOUR_SPOTIFY_UID` above with it
->
-> While you're offline, it'll show your last-played track instead — so it's never empty.
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arunsah&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" width="48%" />
+</p>
+
+> ℹ️ Replace `arunsah` in the stats URLs above with your exact GitHub username for these to render correctly.
 
 ---
 
