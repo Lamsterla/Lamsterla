@@ -94,18 +94,13 @@ I combine **Technology + Creativity + Problem Solving** to build powerful digita
 
 ---
 
-### 📊 GitHub Stats
+### 💻 Code in Motion
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=arunsah&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=arunsah&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="48%" />
+  <img src="https://media.giphy.com/media/SkVjqEAAEbDESyN8mh/giphy.gif" alt="Coding animation" width="450" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arunsah&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" width="48%" />
-</p>
-
-> ℹ️ Replace `arunsah` in the stats URLs above with your exact GitHub username for these to render correctly.
+> 💡 You can swap this GIF for any coding animation you like — search [giphy.com](https://giphy.com) or [tenor.com](https://tenor.com) for "coding," "programming," or "hacker" GIFs, then drop the direct image link in place of the URL above.
 
 ---
 
