@@ -79,9 +79,15 @@ I'm a passionate creator who loves building things from scratch — whether it's
 **Database**
 
 <p align="left">
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/phpMyAdmin-6C78AF?style=for-the-badge&logo=phpmyadmin&logoColor=white" />
+  <img src="https://skillicons.dev/icons?i=mysql,supabase,replit" />
 </p>
+<p align="left">
+  <img src="https://img.shields.io/badge/Google%20Auth-4285F4?style=flat-square&logo=google&logoColor=white" />
+  <img src="https://img.shields.io/badge/Flow-000000?style=flat-square&logo=flow&logoColor=white" />
+  <img src="https://img.shields.io/badge/phpMyAdmin-6C78AF?style=flat-square&logo=phpmyadmin&logoColor=white" />
+</p>
+
+> ℹ️ phpMyAdmin, Google Auth, and Flow don't have icons on skillicons.dev, so they use flat-square badges instead — still cleaner than the boxy `for-the-badge` style.
 
 ---
 
@@ -100,13 +106,26 @@ I combine **Technology + Creativity + Problem Solving** to build powerful digita
 
 ---
 
-### 📈 Contribution Graph
+### 📊 GitHub Stats Dashboard
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Lamsterla&theme=react-dark&hide_border=true&area=true" alt="Contribution Graph" width="100%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Lamsterla&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub Stats" width="49%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Lamsterla&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="49%" />
 </p>
 
-> ℹ️ This graph pulls automatically from your real commit activity — no setup needed.
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lamsterla&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" width="60%" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Lamsterla&theme=tokyo-night&hide_border=true&area=true" alt="Contribution Graph" width="100%" />
+</p>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Lamsterla/Lamsterla/output/github-contribution-grid-snake-dark.svg" alt="Contribution Snake" width="100%" />
+</p>
+
+> ⚙️ Everything above updates automatically from your real GitHub activity — just one setup step for the **snake animation**: add a workflow using [`Platane/snk`](https://github.com/Platane/snk) to your `Lamsterla/Lamsterla` repo so it generates and publishes that SVG. Without it, that last image will simply show broken until the workflow runs once. All other widgets work immediately, no setup needed.
 
 ---
 
