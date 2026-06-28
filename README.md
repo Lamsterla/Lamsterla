@@ -94,13 +94,42 @@ I combine **Technology + Creativity + Problem Solving** to build powerful digita
 
 ---
 
-### 💻 Code in Motion
+### 🌐 3D Contribution Graph
 
 <p align="center">
-  <img src="https://media.giphy.com/media/SkVjqEAAEbDESyN8mh/giphy.gif" alt="Coding animation" width="450" />
+  <a href="https://github.com/arunsah">
+    <img src="https://raw.githubusercontent.com/arunsah/arunsah/output/github-contribution-grid-snake-3d.svg" alt="3D Contribution Graph" width="100%" />
+  </a>
 </p>
 
-> 💡 You can swap this GIF for any coding animation you like — search [giphy.com](https://giphy.com) or [tenor.com](https://tenor.com) for "coding," "programming," or "hacker" GIFs, then drop the direct image link in place of the URL above.
+> ⚙️ **Setup (free, ~5 minutes):** This 3D graph auto-generates from your real commit history using a GitHub Action.
+> 1. Create a repo named exactly like your username (e.g. `arunsah/arunsah`) — the same one this README lives in
+> 2. Add this workflow file at `.github/workflows/profile-3d.yml`:
+> ```yaml
+> name: 3D Profile Graph
+> on:
+>   schedule:
+>     - cron: "0 0 * * *"
+>   workflow_dispatch:
+> jobs:
+>   build:
+>     runs-on: ubuntu-latest
+>     steps:
+>       - uses: yoshi389111/github-profile-3d-contrib@0.7.1
+>         env:
+>           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+>       - uses: actions/upload-artifact@v4
+>         with:
+>           name: profile-3d-contrib
+>           path: profile-3d-contrib/
+>       - uses: peaceiris/actions-gh-pages@v3
+>         with:
+>           github_token: ${{ secrets.GITHUB_TOKEN }}
+>           publish_branch: output
+>           publish_dir: ./profile-3d-contrib
+> ```
+> 3. Push it, let the Action run once, then replace `arunsah` in the image URL above with your exact GitHub username
+> 4. It auto-refreshes daily, so your graph always reflects your latest commits
 
 ---
 
