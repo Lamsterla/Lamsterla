@@ -28,17 +28,34 @@
 
 ## 🚀 Top Projects
 
-### 🍽️ OrderPay — *QR-Based Restaurant Ordering System*
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 🍽️ OrderPay
+*QR-Based Restaurant Ordering System*
 
 Full-stack web app letting customers scan a QR code, browse the menu, and place orders online — with SMTP-based auth/notifications and a full admin panel for managing menus and orders.
 
 **Stack:** JavaScript · PHP · SMTP · MySQL
-<br/>**[→ View Repo](https://github.com/Lamsterla)** — *Canvas-Based 3D Experience*
+
+**[→ View Repo](https://github.com/Lamsterla)**
+
+</td>
+<td width="50%" valign="top">
+
+### 🏎️ 3D Car Showcase
+*Canvas-Based 3D Experience*
 
 An immersive, Ferrari-inspired 3D website with real-time interactions and animation, built with a focus on performance, responsiveness, and scalable architecture.
 
 **Stack:** JavaScript · HTML/CSS · PHP
-<br/>**[→ View Repo](https://github.com/Lamsterla)**
+
+**[→ View Repo](https://github.com/Lamsterla)**
+
+</td>
+</tr>
+</table>
 
 <br/>
 
