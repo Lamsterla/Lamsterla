@@ -40,8 +40,8 @@ I'm a passionate creator who loves building things from scratch — whether it's
 
 <p align="left">
   <img src="https://skillicons.dev/icons?i=blender,html,css,flutter,react" height="48" />
-  <img src="https://img.shields.io/badge/-1A1A1A?style=flat-square&logo=davinciresolve&logoColor=white&logoSize=auto" height="48" width="48" />
-  <img src="https://img.shields.io/badge/-412991?style=flat-square&logo=openai&logoColor=white&logoSize=auto" height="48" width="48" />
+  <img src="https://cdn.simpleicons.org/davinciresolve/1A1A1A" height="48" width="48" />
+  <img src="https://cdn.simpleicons.org/openai/412991" height="48" width="48" />
 </p>
 
 ---
@@ -58,23 +58,24 @@ I'm a passionate creator who loves building things from scratch — whether it's
 
 <p align="left">
   <img src="https://skillicons.dev/icons?i=tailwind,django,git,blender,wordpress" height="48" />
-  <img src="https://img.shields.io/badge/-1A1A1A?style=flat-square&logo=davinciresolve&logoColor=white&logoSize=auto" height="48" width="48" />
-  <img src="https://img.shields.io/badge/-000000?style=flat-square&logo=wix&logoColor=white&logoSize=auto" height="48" width="48" />
-  <img src="https://img.shields.io/badge/-34A853?style=flat-square&logo=googlesheets&logoColor=white&logoSize=auto" height="48" width="48" />
-  <img src="https://img.shields.io/badge/-217346?style=flat-square&logo=microsoftexcel&logoColor=white&logoSize=auto" height="48" width="48" />
-  <img src="https://img.shields.io/badge/-00C4CC?style=flat-square&logo=canva&logoColor=white&logoSize=auto" height="48" width="48" />
+  <img src="https://cdn.simpleicons.org/davinciresolve/1A1A1A" height="48" width="48" />
+  <img src="https://cdn.simpleicons.org/wix/000000" height="48" width="48" />
+  <img src="https://cdn.simpleicons.org/googlesheets/34A853" height="48" width="48" />
+  <img src="https://cdn.simpleicons.org/canva/00C4CC" height="48" width="48" />
+</p>
+<p align="left">
+  <img src="https://img.icons8.com/color/48/microsoft-excel-2019--v1.png" height="48" width="48" alt="Excel" />
 </p>
 
 **Database**
 
 <p align="left">
   <img src="https://skillicons.dev/icons?i=mysql,supabase,replit" height="48" />
-  <img src="https://img.shields.io/badge/-4285F4?style=flat-square&logo=google&logoColor=white&logoSize=auto" height="48" width="48" />
-  <img src="https://img.shields.io/badge/-000000?style=flat-square&logo=flow&logoColor=white&logoSize=auto" height="48" width="48" />
-  <img src="https://img.shields.io/badge/-6C78AF?style=flat-square&logo=phpmyadmin&logoColor=white&logoSize=auto" height="48" width="48" />
+  <img src="https://cdn.simpleicons.org/googleauthenticator/4285F4" height="48" width="48" />
+  <img src="https://cdn.simpleicons.org/phpmyadmin/6C78AF" height="48" width="48" />
 </p>
 
-> ℹ️ DaVinci Resolve, Wix, Google Sheets, Excel, Canva, Google Auth, Flow, and phpMyAdmin aren't on skillicons.dev, so they use sized logo-only badges instead, matched to the same 48px tile size — everything in these rows should now appear visually uniform.
+> ℹ️ Excel and "Flow" don't have a vector logo on Simple Icons, so Excel uses its official Icons8 icon instead and Flow has been left out — let me know which "Flow" tool you mean (Microsoft Power Automate, formerly "Flow"? Adobe? something else?) and I'll find its correct logo. Everything else above now uses verified brand icons at uniform 48px size.
 
 ---
 
