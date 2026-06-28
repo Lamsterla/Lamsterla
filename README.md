@@ -60,17 +60,21 @@ An immersive, Ferrari-inspired 3D website with real-time interactions and animat
 
 <img src="https://skillicons.dev/icons?i=git,github,blender,wordpress" height="48" />
 
-### Skills & Concepts
+### Tools Known
 
-<img src="https://img.shields.io/badge/Team%20Leadership-000?style=for-the-badge&color=4F46E5" height="28"/>
-<img src="https://img.shields.io/badge/Project%20Management-000?style=for-the-badge&color=7C3AED" height="28"/>
-<img src="https://img.shields.io/badge/Database%20Management-000?style=for-the-badge&color=059669" height="28"/>
-<img src="https://img.shields.io/badge/API%20Development-000?style=for-the-badge&color=DC2626" height="28"/>
-<img src="https://img.shields.io/badge/SMTP%20Integration-000?style=for-the-badge&color=EA580C" height="28"/>
-<br/>
-<img src="https://img.shields.io/badge/SaaS-000?style=for-the-badge&color=0EA5E9" height="28"/>
-<img src="https://img.shields.io/badge/Client%20Communication-000?style=for-the-badge&color=DB2777" height="28"/>
-<img src="https://img.shields.io/badge/Cyber%20Security%20Awareness-000?style=for-the-badge&color=B45309" height="28"/>
+<p>
+<img src="https://img.shields.io/badge/Team%20Leadership-4F46E5?style=for-the-badge" height="28"/>
+<img src="https://img.shields.io/badge/Project%20Management-7C3AED?style=for-the-badge" height="28"/>
+<img src="https://img.shields.io/badge/Database%20Management-059669?style=for-the-badge" height="28"/>
+<img src="https://img.shields.io/badge/API%20Development-DC2626?style=for-the-badge" height="28"/>
+<img src="https://img.shields.io/badge/SMTP%20Integration-EA580C?style=for-the-badge" height="28"/>
+<img src="https://img.shields.io/badge/SaaS-0EA5E9?style=for-the-badge" height="28"/>
+<img src="https://img.shields.io/badge/Client%20Communication-DB2777?style=for-the-badge" height="28"/>
+<img src="https://img.shields.io/badge/Cyber%20Security%20Awareness-B45309?style=for-the-badge" height="28"/>
+<img src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge" height="28"/>
+<img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge" height="28"/>
+<img src="https://img.shields.io/badge/Google%20Sheets-34A853?style=for-the-badge" height="28"/>
+</p>
 
 <br/>
 
