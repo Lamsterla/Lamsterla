@@ -53,27 +53,17 @@ I'm a passionate creator who loves building things from scratch — whether it's
 **Languages**
 
 <p align="left">
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
-  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" />
-  <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=.net&logoColor=white" />
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,php,python,cpp,csharp,dotnet,nodejs" />
 </p>
 
 **Frameworks & Tools**
 
 <p align="left">
-  <img src="https://img.shields.io/badge/Tailwind%20CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" />
-  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/Blender-F5792A?style=for-the-badge&logo=blender&logoColor=white" />
-  <img src="https://img.shields.io/badge/DaVinci%20Resolve-1A1A1A?style=for-the-badge&logo=davinciresolve&logoColor=white" />
-  <img src="https://img.shields.io/badge/Wix-000000?style=for-the-badge&logo=wix&logoColor=white" />
-  <img src="https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white" />
+  <img src="https://skillicons.dev/icons?i=tailwind,django,git,blender,wordpress" />
+</p>
+<p align="left">
+  <img src="https://img.shields.io/badge/DaVinci%20Resolve-1A1A1A?style=flat-square&logo=davinciresolve&logoColor=white" />
+  <img src="https://img.shields.io/badge/Wix-000000?style=flat-square&logo=wix&logoColor=white" />
 </p>
 
 **Database**
@@ -87,7 +77,7 @@ I'm a passionate creator who loves building things from scratch — whether it's
   <img src="https://img.shields.io/badge/phpMyAdmin-6C78AF?style=flat-square&logo=phpmyadmin&logoColor=white" />
 </p>
 
-> ℹ️ phpMyAdmin, Google Auth, and Flow don't have icons on skillicons.dev, so they use flat-square badges instead — still cleaner than the boxy `for-the-badge` style.
+> ℹ️ DaVinci Resolve, Wix, Google Auth, Flow, and phpMyAdmin aren't on skillicons.dev, so they use small flat-square badges instead — everything else is a pure logo icon.
 
 ---
 
@@ -114,18 +104,10 @@ I combine **Technology + Creativity + Problem Solving** to build powerful digita
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lamsterla&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" width="60%" />
-</p>
-
-<p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Lamsterla&theme=tokyo-night&hide_border=true&area=true" alt="Contribution Graph" width="100%" />
 </p>
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Lamsterla/Lamsterla/output/github-contribution-grid-snake-dark.svg" alt="Contribution Snake" width="100%" />
-</p>
-
-> ⚙️ Everything above updates automatically from your real GitHub activity — just one setup step for the **snake animation**: add a workflow using [`Platane/snk`](https://github.com/Platane/snk) to your `Lamsterla/Lamsterla` repo so it generates and publishes that SVG. Without it, that last image will simply show broken until the workflow runs once. All other widgets work immediately, no setup needed.
+> ℹ️ This updates automatically from your real GitHub activity — no setup needed.
 
 ---
 
