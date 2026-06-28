@@ -1,8 +1,15 @@
-<div align="center">
+<h1 align="center">Hi there, I'm Arun Sah 👋</h1>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Arun%20Sah&fontSize=56&fontAlignY=40&desc=Web%20Developer%20·%20Software%20Developer%20·%20Video%20Editor%20·%203D%20Creator&descAlignY=62&descSize=15"/>
+<h3 align="center">💻 Web Developer&nbsp;&nbsp;|&nbsp;&nbsp;👨‍💻 Software Developer&nbsp;&nbsp;|&nbsp;&nbsp;🎬 Video Editor&nbsp;&nbsp;|&nbsp;&nbsp;🎨 3D Creator</h3>
 
-</div>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=4F46E5&center=true&vCenter=true&width=600&lines=Building+things+from+scratch+%F0%9F%9A%80;Web+%7C+Software+%7C+3D+%7C+AI;Learning+by+Building%2C+Every+Day+%F0%9F%94%A5" alt="Typing SVG" />
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Lamsterla&label=Profile%20Views&color=4F46E5&style=flat" alt="profile views" />
+  <img src="https://img.shields.io/badge/Status-Building%20Cool%20Stuff-success?style=flat&logo=rocket" alt="status" />
+</p>
 
 <br/>
 
@@ -125,10 +132,4 @@ I combine **technology, creativity, and problem-solving** to build powerful digi
 
 <br/>
 
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer"/>
-
-<sub><i>⭐ From building websites to crafting 3D worlds — always learning, always building.</i></sub>
-
-</div>
+<p align="center"><i>⭐ From building websites to crafting 3D worlds — always learning, always building.</i></p>
