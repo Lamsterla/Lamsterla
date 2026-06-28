@@ -36,7 +36,38 @@ I'm a passionate creator who loves building things from scratch — whether it's
 
 ---
 
-### 📚 Currently Learning
+### 🚀 Top Projects
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+**🍽️ OrderPay**
+*QR-Based Restaurant Ordering System*
+
+Full-stack web app letting customers scan a QR code, browse the menu, and place orders online — complete with SMTP-based auth/notifications and a full admin panel for managing menus and orders.
+
+`JavaScript` `PHP` `SMTP` `MySQL`
+
+[View Repo →](https://github.com/Lamsterla)
+
+</td>
+<td width="50%" valign="top">
+
+**🏎️ 3D Interactive Car Showcase**
+*Canvas-based 3D experience*
+
+An immersive, Ferrari-inspired 3D website with real-time interactions and animations — built with a focus on performance, responsiveness, and scalable architecture.
+
+`JavaScript` `HTML/CSS` `PHP`
+
+[View Repo →](https://github.com/Lamsterla)
+
+</td>
+</tr>
+</table>
+
+---
 
 <p align="left">
   <img src="https://skillicons.dev/icons?i=blender,html,css,flutter,react" height="48" />
@@ -100,16 +131,16 @@ I combine **Technology + Creativity + Problem Solving** to build powerful digita
 
 <p align="left">
   <a href="https://github.com/Lamsterla" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+    <img src="https://skillicons.dev/icons?i=github" height="48" />
   </a>
   <a href="https://linkedin.com/in/Lamsterla" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+    <img src="https://skillicons.dev/icons?i=linkedin" height="48" />
   </a>
   <a href="mailto:your-email@example.com" target="_blank">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+    <img src="https://skillicons.dev/icons?i=gmail" height="48" />
   </a>
   <a href="https://instagram.com/Lamsterla" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+    <img src="https://skillicons.dev/icons?i=instagram" height="48" />
   </a>
 </p>
 
