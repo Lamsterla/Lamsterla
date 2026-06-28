@@ -12,53 +12,74 @@
 
 ## 🔥 What I'm Working On
 
-🧊 &nbsp;**3D & Blender-based projects** — modeling, animation, and rendering
-🤖 &nbsp;**AI-based applications** — practical tools built on top of AI APIs
-🌐 &nbsp;**Full-stack web applications** — frontend to database, end to end
-🛠️ &nbsp;**Custom software tools** — small utilities that solve real problems
+- 🧊 **3D & Blender-based projects** — modeling, animation, and rendering
+- 🤖 **AI-based applications** — practical tools built on top of AI APIs
+- 🌐 **Full-stack web applications** — frontend to database, end to end
+- 🛠️ **Custom software tools** — small utilities that solve real problems
 
 <br/>
 
 ## 🚀 Top Projects
 
 ### 🍽️ OrderPay — *QR-Based Restaurant Ordering System*
-Full-stack web app letting customers scan a QR code, browse the menu, and place orders online — with SMTP-based auth/notifications and a full admin panel for managing menus and orders.
-**Stack:** JavaScript · PHP · SMTP · MySQL
-**[→ View Repo](https://github.com/Lamsterla)**
 
-### 🏎️ 3D Car Showcase — *Canvas-Based 3D Experience*
+Full-stack web app letting customers scan a QR code, browse the menu, and place orders online — with SMTP-based auth/notifications and a full admin panel for managing menus and orders.
+
+**Stack:** JavaScript · PHP · SMTP · MySQL
+<br/>**[→ View Repo](https://github.com/Lamsterla)** — *Canvas-Based 3D Experience*
+
 An immersive, Ferrari-inspired 3D website with real-time interactions and animation, built with a focus on performance, responsiveness, and scalable architecture.
+
 **Stack:** JavaScript · HTML/CSS · PHP
-**[→ View Repo](https://github.com/Lamsterla)**
+<br/>**[→ View Repo](https://github.com/Lamsterla)**
 
 <br/>
 
 ## 📚 Currently Learning
 
-<img src="https://skillicons.dev/icons?i=blender,html,css,flutter,react" height="42" />
+<p align="center"><img src="https://skillicons.dev/icons?i=blender,html,css,flutter,react" height="42" /></p>
 
 <br/>
 <br/>
 
 ## 🛠️ Tech Stack
 
-**Languages**
-<img src="https://skillicons.dev/icons?i=html,css,js,php,python,cpp,cs,dotnet,nodejs" height="38" />
+### Languages
 
-**Frameworks & Tools**
-<img src="https://skillicons.dev/icons?i=tailwind,django,git,blender,wordpress" height="38" />
+<img src="https://skillicons.dev/icons?i=html,css,js,php,python,cpp,cs,dotnet,nodejs" height="48" />
 
-**Database**
-<img src="https://skillicons.dev/icons?i=mysql,phpmyadmin,supabase,replit" height="38" />
+### Frameworks & Frontend
+
+<img src="https://skillicons.dev/icons?i=tailwind,django,react,flutter" height="48" />
+
+### Backend & Database
+
+<img src="https://skillicons.dev/icons?i=mysql,phpmyadmin,supabase,replit" height="48" />
+
+### Tools & Platforms
+
+<img src="https://skillicons.dev/icons?i=git,github,blender,wordpress" height="48" />
+
+### Skills & Concepts
+
+<img src="https://img.shields.io/badge/Team%20Leadership-000?style=for-the-badge&color=4F46E5" height="28"/>
+<img src="https://img.shields.io/badge/Project%20Management-000?style=for-the-badge&color=7C3AED" height="28"/>
+<img src="https://img.shields.io/badge/Database%20Management-000?style=for-the-badge&color=059669" height="28"/>
+<img src="https://img.shields.io/badge/API%20Development-000?style=for-the-badge&color=DC2626" height="28"/>
+<img src="https://img.shields.io/badge/SMTP%20Integration-000?style=for-the-badge&color=EA580C" height="28"/>
+<br/>
+<img src="https://img.shields.io/badge/SaaS-000?style=for-the-badge&color=0EA5E9" height="28"/>
+<img src="https://img.shields.io/badge/Client%20Communication-000?style=for-the-badge&color=DB2777" height="28"/>
+<img src="https://img.shields.io/badge/Cyber%20Security%20Awareness-000?style=for-the-badge&color=B45309" height="28"/>
 
 <br/>
 
 ## 🎯 Goals
 
-👨‍💻 Become a **strong software engineer**
-🎨 Combine **creativity with technology**
-💡 Build **practical, impactful projects**
-🧠 Master **AI & automation**
+- 👨‍💻 Become a **strong software engineer**
+- 🎨 Combine **creativity with technology**
+- 💡 Build **practical, impactful projects**
+- 🧠 Master **AI & automation**
 
 <br/>
 
@@ -86,12 +107,17 @@ I combine **technology, creativity, and problem-solving** to build powerful digi
 
 ## 📫 Connect With Me
 
-<img src="https://skillicons.dev/icons?i=github" height="42"/> &nbsp;[GitHub](https://github.com/Lamsterla) &nbsp;&nbsp;&nbsp;
-<img src="https://skillicons.dev/icons?i=linkedin" height="42"/> &nbsp;[LinkedIn](https://linkedin.com/in/Lamsterla) &nbsp;&nbsp;&nbsp;
-<img src="https://skillicons.dev/icons?i=gmail" height="42"/> &nbsp;[Email](mailto:your-email@example.com) &nbsp;&nbsp;&nbsp;
-<img src="https://skillicons.dev/icons?i=instagram" height="42"/> &nbsp;[Instagram](https://instagram.com/Lamsterla)
+<p align="center">
+<a href="https://github.com/Lamsterla"><img src="https://skillicons.dev/icons?i=github" height="42"/></a>&nbsp;&nbsp;<a href="https://github.com/Lamsterla">GitHub</a>
+&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://linkedin.com/in/Lamsterla"><img src="https://skillicons.dev/icons?i=linkedin" height="42"/></a>&nbsp;&nbsp;<a href="https://linkedin.com/in/Lamsterla">LinkedIn</a>
+&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="mailto:your-email@example.com"><img src="https://skillicons.dev/icons?i=gmail" height="42"/></a>&nbsp;&nbsp;<a href="mailto:your-email@example.com">Email</a>
+&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://instagram.com/Lamsterla"><img src="https://skillicons.dev/icons?i=instagram" height="42"/></a>&nbsp;&nbsp;<a href="https://instagram.com/Lamsterla">Instagram</a>
+</p>
 
-<sub>⚠️ Update the links above with your real profile URLs and email.</sub>
+<p align="center"><sub>⚠️ Update the links above with your real profile URLs and email.</sub></p>
 
 <br/>
 
