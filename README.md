@@ -39,11 +39,11 @@ I'm a passionate creator who loves building things from scratch — whether it's
 ### 📚 Currently Learning
 
 <p align="left">
-  <img src="https://img.shields.io/badge/Blender%20%26%203D%20Animation-orange?style=for-the-badge&logo=blender&logoColor=white" />
-  <img src="https://img.shields.io/badge/DaVinci%20Resolve-1A1A1A?style=for-the-badge&logo=davinciresolve&logoColor=white" />
-  <img src="https://img.shields.io/badge/Advanced%20Web%20Dev-blue?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/AI%20%26%20Automation-purple?style=for-the-badge&logo=openai&logoColor=white" />
-  <img src="https://img.shields.io/badge/App%20Dev%20(Flutter%2FReact%20Native)-02569B?style=for-the-badge&logo=flutter&logoColor=white" />
+  <img src="https://skillicons.dev/icons?i=blender,html,css,flutter,react" />
+</p>
+<p align="left">
+  <img src="https://img.shields.io/badge/DaVinci%20Resolve-1A1A1A?style=flat-square&logo=davinciresolve&logoColor=white" />
+  <img src="https://img.shields.io/badge/AI%20%26%20Automation-purple?style=flat-square&logo=openai&logoColor=white" />
 </p>
 
 ---
@@ -53,7 +53,7 @@ I'm a passionate creator who loves building things from scratch — whether it's
 **Languages**
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,js,php,python,cpp,csharp,dotnet,nodejs" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,php,python,cpp,cs,dotnet,nodejs" />
 </p>
 
 **Frameworks & Tools**
@@ -64,6 +64,9 @@ I'm a passionate creator who loves building things from scratch — whether it's
 <p align="left">
   <img src="https://img.shields.io/badge/DaVinci%20Resolve-1A1A1A?style=flat-square&logo=davinciresolve&logoColor=white" />
   <img src="https://img.shields.io/badge/Wix-000000?style=flat-square&logo=wix&logoColor=white" />
+  <img src="https://img.shields.io/badge/Google%20Sheets-34A853?style=flat-square&logo=googlesheets&logoColor=white" />
+  <img src="https://img.shields.io/badge/Excel-217346?style=flat-square&logo=microsoftexcel&logoColor=white" />
+  <img src="https://img.shields.io/badge/Canva-00C4CC?style=flat-square&logo=canva&logoColor=white" />
 </p>
 
 **Database**
@@ -99,7 +102,7 @@ I combine **Technology + Creativity + Problem Solving** to build powerful digita
 ### 📊 GitHub Stats Dashboard
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Lamsterla&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub Stats" width="49%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Lamsterla&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&hide=commits" alt="GitHub Stats" width="49%" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Lamsterla&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="49%" />
 </p>
 
