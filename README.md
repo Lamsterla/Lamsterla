@@ -15,24 +15,38 @@
 
 ### 👨‍💻 About Me
 
-I'm a passionate creator who loves building things from scratch — whether it's websites, software applications, 3D animations, or AI-based systems.
+<table>
+<tr>
+<td>
 
-- 🌐 Working on **Web Development**
-- 👨‍💻 Improving my **Software Development** skills
-- 🎬 Practicing **Professional Video Editing**
-- 🎨 Exploring **3D Design & Animation**
-- 🚀 Working on my own **projects**
+I'm a passionate creator who loves building things from scratch — whether it's websites, software applications, 3D animations, or AI-based systems. I believe in learning by building and improving every single day.
 
-> I believe in learning by building and improving every single day.
+</td>
+</tr>
+</table>
+
+<table>
+<tr>
+<td align="center" width="20%">🌐<br/><b>Web Dev</b></td>
+<td align="center" width="20%">👨‍💻<br/><b>Software Dev</b></td>
+<td align="center" width="20%">🎬<br/><b>Video Editing</b></td>
+<td align="center" width="20%">🎨<br/><b>3D Design</b></td>
+<td align="center" width="20%">🚀<br/><b>Personal Projects</b></td>
+</tr>
+</table>
 
 ---
 
 ### 🔥 What I'm Working On
 
-- 🧊 **3D & Blender-Based Projects**
-- 🤖 **AI-Based Applications**
-- 🌐 **Full-Stack Web Applications**
-- 🛠️ **Custom Software Tools**
+<table>
+<tr>
+<td align="center" width="25%">🧊<br/><b>3D & Blender</b><br/>Projects</td>
+<td align="center" width="25%">🤖<br/><b>AI-Based</b><br/>Applications</td>
+<td align="center" width="25%">🌐<br/><b>Full-Stack</b><br/>Web Apps</td>
+<td align="center" width="25%">🛠️<br/><b>Custom</b><br/>Software Tools</td>
+</tr>
+</table>
 
 ---
 
@@ -69,46 +83,67 @@ An immersive, Ferrari-inspired 3D website with real-time interactions and animat
 
 ---
 
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=blender,html,css,flutter,react" height="48" />
-</p>
+### 📚 Currently Learning
+
+<table>
+<tr>
+<td>
+
+<img src="https://skillicons.dev/icons?i=blender,html,css,flutter,react" height="48" />
+
+</td>
+</tr>
+</table>
 
 ---
 
 ### 🛠️ Tech Stack
 
-**Languages**
-
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,js,php,python,cpp,cs,dotnet,nodejs" />
-</p>
-
-**Frameworks & Tools**
-
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=tailwind,django,git,blender,wordpress" height="48" />
-</p>
-
-**Database**
-
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=mysql,supabase,replit" height="48" />
-</p>
+<table>
+<tr>
+<th align="left" width="20%">Category</th>
+<th align="left">Stack</th>
+</tr>
+<tr>
+<td><b>Languages</b></td>
+<td><img src="https://skillicons.dev/icons?i=html,css,js,php,python,cpp,cs,dotnet,nodejs" height="40" /></td>
+</tr>
+<tr>
+<td><b>Frameworks & Tools</b></td>
+<td><img src="https://skillicons.dev/icons?i=tailwind,django,git,blender,wordpress" height="40" /></td>
+</tr>
+<tr>
+<td><b>Database</b></td>
+<td><img src="https://skillicons.dev/icons?i=mysql,phpmyadmin,supabase,replit" height="40" /></td>
+</tr>
+</table>
 
 ---
 
 ### 🎯 Goals
 
-- 👨‍💻 Become a **Strong Software Engineer**
-- 🎨 Combine **Creativity with Technology**
-- 💡 Build **Practical & Impactful Projects**
-- 🧠 Master **AI & Automation**
+<table>
+<tr>
+<td align="center" width="25%">👨‍💻<br/><b>Strong Software<br/>Engineer</b></td>
+<td align="center" width="25%">🎨<br/><b>Creativity ×<br/>Technology</b></td>
+<td align="center" width="25%">💡<br/><b>Practical &<br/>Impactful Projects</b></td>
+<td align="center" width="25%">🧠<br/><b>Master AI &<br/>Automation</b></td>
+</tr>
+</table>
 
 ---
 
 ### 💡 Fun Fact
 
-I combine **Technology + Creativity + Problem Solving** to build powerful digital solutions 🚀
+<table>
+<tr>
+<td align="center">
+
+*I combine* **Technology + Creativity + Problem Solving** *to build powerful digital solutions* 🚀
+
+</td>
+</tr>
+</table>
 
 ---
 
@@ -129,20 +164,18 @@ I combine **Technology + Creativity + Problem Solving** to build powerful digita
 
 ### 📫 Connect With Me
 
-<p align="left">
-  <a href="https://github.com/Lamsterla" target="_blank">
-    <img src="https://skillicons.dev/icons?i=github" height="48" />
-  </a>
-  <a href="https://linkedin.com/in/Lamsterla" target="_blank">
-    <img src="https://skillicons.dev/icons?i=linkedin" height="48" />
-  </a>
-  <a href="mailto:your-email@example.com" target="_blank">
-    <img src="https://skillicons.dev/icons?i=gmail" height="48" />
-  </a>
-  <a href="https://instagram.com/Lamsterla" target="_blank">
-    <img src="https://skillicons.dev/icons?i=instagram" height="48" />
-  </a>
-</p>
+<table>
+<tr>
+<td>
+
+<a href="https://github.com/Lamsterla" target="_blank"><img src="https://skillicons.dev/icons?i=github" height="48" /></a>
+<a href="https://linkedin.com/in/Lamsterla" target="_blank"><img src="https://skillicons.dev/icons?i=linkedin" height="48" /></a>
+<a href="mailto:your-email@example.com" target="_blank"><img src="https://skillicons.dev/icons?i=gmail" height="48" /></a>
+<a href="https://instagram.com/Lamsterla" target="_blank"><img src="https://skillicons.dev/icons?i=instagram" height="48" /></a>
+
+</td>
+</tr>
+</table>
 
 > ⚠️ Update the links above with your real profile URLs and email — placeholders won't work as-is.
 
