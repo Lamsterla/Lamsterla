@@ -61,7 +61,7 @@ An immersive, Ferrari-inspired 3D website with real-time interactions and animat
 
 ## 📚 Currently Learning
 
-<p align="center"><img src="https://skillicons.dev/icons?i=blender,html,css,flutter,react" height="42" /></p>
+<p><img src="https://skillicons.dev/icons?i=blender,html,css,flutter,react" height="42" /></p>
 
 <br/>
 <br/>
@@ -78,29 +78,11 @@ An immersive, Ferrari-inspired 3D website with real-time interactions and animat
 
 ### Backend & Database
 
-<img src="https://skillicons.dev/icons?i=mysql,phpmyadmin,supabase,replit" height="48" />
+<img src="https://skillicons.dev/icons?i=mysql,supabase,replit" height="48" />
 
 ### Tools & Platforms
 
 <img src="https://skillicons.dev/icons?i=git,github,blender,wordpress" height="48" />
-
-### Tools Known
-
-<p>
-<img src="https://img.shields.io/badge/Team%20Leadership-4F46E5?style=for-the-badge" height="28"/>
-<img src="https://img.shields.io/badge/Project%20Management-7C3AED?style=for-the-badge" height="28"/>
-<img src="https://img.shields.io/badge/Database%20Management-059669?style=for-the-badge" height="28"/>
-<img src="https://img.shields.io/badge/API%20Development-DC2626?style=for-the-badge" height="28"/>
-<img src="https://img.shields.io/badge/SMTP%20Integration-EA580C?style=for-the-badge" height="28"/>
-<img src="https://img.shields.io/badge/SaaS-0EA5E9?style=for-the-badge" height="28"/>
-<img src="https://img.shields.io/badge/Client%20Communication-DB2777?style=for-the-badge" height="28"/>
-<img src="https://img.shields.io/badge/Cyber%20Security%20Awareness-B45309?style=for-the-badge" height="28"/>
-<img src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge" height="28"/>
-<img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge" height="28"/>
-<img src="https://img.shields.io/badge/Google%20Sheets-34A853?style=for-the-badge" height="28"/>
-</p>
-
-<br/>
 
 ## 🎯 Goals
 
@@ -144,8 +126,6 @@ I combine **technology, creativity, and problem-solving** to build powerful digi
 &nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://instagram.com/Lamsterla"><img src="https://skillicons.dev/icons?i=instagram" height="42"/></a>&nbsp;&nbsp;<a href="https://instagram.com/Lamsterla">Instagram</a>
 </p>
-
-<p align="center"><sub>⚠️ Update the links above with your real profile URLs and email.</sub></p>
 
 <br/>
 
