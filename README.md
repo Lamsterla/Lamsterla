@@ -106,10 +106,6 @@ I combine **Technology + Creativity + Problem Solving** to build powerful digita
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Lamsterla&theme=react-dark&hide_border=true&area=true" alt="Contribution Graph" width="100%" />
 </p>
 
-> ℹ️ Replace `Lamsterla` in the image URL above with your exact GitHub username for this to render correctly. It updates automatically based on your real commit activity — no setup needed beyond that.
-
----
-
 ### 📫 Connect With Me
 
 <p align="left">
@@ -127,7 +123,7 @@ I combine **Technology + Creativity + Problem Solving** to build powerful digita
   </a>
 </p>
 
-> ⚠️ Update the links above with your real profile URLs and email — placeholders won't work as-is.
+
 
 ---
 
