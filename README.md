@@ -120,11 +120,11 @@ There is Always a Solution to Every Problem Just we need To figure out Every Pos
 <p align="center">
 <a href="https://github.com/Lamsterla"><img src="https://skillicons.dev/icons?i=github" height="42"/></a>&nbsp;&nbsp;<a href="https://github.com/Lamsterla">GitHub</a>
 &nbsp;&nbsp;&nbsp;&nbsp;
-<a href="https://linkedin.com/in/Lamsterla"><img src="https://skillicons.dev/icons?i=linkedin" height="42"/></a>&nbsp;&nbsp;<a href="https://linkedin.com/in/Lamsterla">LinkedIn</a>
+<a href="in/ arun-sah-7b7246313"><img src="https://skillicons.dev/icons?i=linkedin" height="42"/></a>&nbsp;&nbsp;<a href="https://linkedin.com/in/Lamsterla">LinkedIn</a>
 &nbsp;&nbsp;&nbsp;&nbsp;
-<a href="mailto:your-email@example.com"><img src="https://skillicons.dev/icons?i=gmail" height="42"/></a>&nbsp;&nbsp;<a href="mailto:your-email@example.com">Email</a>
+<a href="mailto:your-arunkumar90853@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" height="42"/></a>&nbsp;&nbsp;<a href="mailto:your-email@example.com">Email</a>
 &nbsp;&nbsp;&nbsp;&nbsp;
-<a href="https://instagram.com/Lamsterla"><img src="https://skillicons.dev/icons?i=instagram" height="42"/></a>&nbsp;&nbsp;<a href="https://instagram.com/Lamsterla">Instagram</a>
+<a href="https://www.instagram.com/sah_arun_kumar?igsh=MW5iejdjbm9xa2hwNw=="><img src="https://skillicons.dev/icons?i=instagram" height="42"/></a>&nbsp;&nbsp;<a href="https://instagram.com/Lamsterla">Instagram</a>
 </p>
 
 <br/>
