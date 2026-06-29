@@ -118,15 +118,14 @@ There is Always a Solution to Every Problem Just we need To figure out Every Pos
 ## 📫 Connect With Me
 
 <p align="center">
-<a href="https://github.com/Lamsterla"><img src="https://skillicons.dev/icons?i=github" height="42"/></a>&nbsp;&nbsp;<a 
+<a href="https://github.com/Lamsterla"><img src="https://skillicons.dev/icons?i=github" height="42"/></a>&nbsp;&nbsp;<a href="https://github.com/Lamsterla">GitHub</a>
 &nbsp;&nbsp;&nbsp;&nbsp;
-<a href="www.linkedin.com/in/arun-sah-7b7246313"><img src="https://skillicons.dev/icons?i=linkedin" height="42"/></a>&nbsp;&nbsp;<a 
+<a href="https://www.linkedin.com/in/arun-sah-7b7246313"><img src="https://skillicons.dev/icons?i=linkedin" height="42"/></a>&nbsp;&nbsp;<a href="https://www.linkedin.com/in/arun-sah-7b7246313">LinkedIn</a>
 &nbsp;&nbsp;&nbsp;&nbsp;
-<a href="mailto:your-arunkumar90853@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" height="42"/></a>&nbsp;&nbsp;
+<a href="mailto:arunkumar90853@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" height="42"/></a>&nbsp;&nbsp;<a href="mailto:arunkumar90853@gmail.com">Email</a>
 &nbsp;&nbsp;&nbsp;&nbsp;
-<a href="https://www.instagram.com/sah_arun_kumar?igsh=MW5iejdjbm9xa2hwNw=="><img src="https://skillicons.dev/icons?i=instagram" height="42"/></a>&nbsp;&nbsp;<a 
+<a href="https://www.instagram.com/sah_arun_kumar"><img src="https://skillicons.dev/icons?i=instagram" height="42"/></a>&nbsp;&nbsp;<a href="https://www.instagram.com/sah_arun_kumar">Instagram</a>
 </p>
-
 <br/>
 
 <p align="center"><i>⭐ From building websites to crafting 3D worlds — always learning, always building.</i></p>
