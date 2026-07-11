@@ -39,7 +39,7 @@ Full-stack web app letting customers scan a QR code, browse the menu, and place 
 
 **Stack:** JavaScript · PHP · SMTP · MySQL
 
-**[→ View Repo](https://github.com/Lamsterla)**
+**[→ View Repo](https://github.com/Lamsterla/Order-pay)**
 
 </td>
 <td width="50%" valign="top">
