@@ -51,7 +51,7 @@ An immersive, Ferrari-inspired 3D website with real-time interactions and animat
 
 **Stack:** JavaScript · HTML/CSS · PHP
 
-**[→ View Repo](https://github.com/Lamsterla)**
+**[→ View Repo](https://github.com/Lamsterla/3D-Website)**
 
 </td>
 </tr>
