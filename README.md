@@ -7,7 +7,7 @@
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Lamsterla&label=Profile%20Views&color=4F46E5&style=flat" alt="profile views" />
+  <img src="https://komarev.com/ghpvc/?username=Lamsterla&label=Profile%20Views&color=4F46E5&style=flat" alt="profile views" /> 
   <img src="https://img.shields.io/badge/Status-Building%20Cool%20Stuff-success?style=flat&logo=rocket" alt="status" />
 </p>
 
