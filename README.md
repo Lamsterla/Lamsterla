@@ -44,15 +44,14 @@ Full-stack web app letting customers scan a QR code, browse the menu, and place 
 </td>
 <td width="50%" valign="top">
 
-### 🏎️ 3D Car Showcase
-*Canvas-Based 3D Experience*
+### 🤖 Friday AI
+*Intelligent Desktop Voice Assistant*
 
-An immersive, Ferrari-inspired 3D website with real-time interactions and animation, built with a focus on performance, responsiveness, and scalable architecture.
+A Python-powered desktop voice assistant that automates everyday Windows tasks through voice commands, AI-powered conversations, and system-level controls.
 
-**Stack:** JavaScript · HTML/CSS · PHP
+**Stack:** Python · OpenAI API · Speech Recognition · Windows API
 
-**[→ View Repo](https://github.com/Lamsterla/3D-Website)**
-
+**[→ View Repo](https://github.com/Lamsterla/)**
 </td>
 </tr>
 </table>
