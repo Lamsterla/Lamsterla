@@ -51,7 +51,7 @@ A Python-powered desktop voice assistant that automates everyday Windows tasks t
 
 **Stack:** Python · OpenAI API · Speech Recognition · Windows API
 
-**[→ View Repo](https://github.com/Lamsterla/)**
+**[→ View Repo](https://github.com/Lamsterla/Personalized-AI-Assistant)**
 </td>
 </tr>
 </table>
