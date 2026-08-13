@@ -1,6 +1,6 @@
 <h1 align="center">Arun Sah Here! 👋</h1>  
   
-<h3 align="center">💻 Web Developer&nbsp;&nbsp;|&nbsp;&nbsp;👨‍💻 Software Developer&nbsp;&nbsp;|&nbsp;&nbsp;🎬 Video Editor&nbsp;&nbsp;|&nbsp;&nbsp;🎨 3D Creator</h3> 
+<h3 align="center">💻 Web Developer&nbsp;&nbsp;|&nbsp;&nbsp;👨‍💻 Software Developer&nbsp;&nbsp;|&nbsp;&nbsp;🎬 Video Editor&nbsp;&nbsp;|&nbsp;&nbsp;🎨 3D Creator</h3>  
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=4F46E5&center=true&vCenter=true&width=600&lines=Building+things+from+scratch+%F0%9F%9A%80;Web+%7C+Software+%7C+3D+%7C+AI;Learning+by+Building%2C+Every+Day+%F0%9F%94%A5" alt="Typing SVG" />
