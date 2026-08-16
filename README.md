@@ -5,7 +5,7 @@
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=4F46E5&center=true&vCenter=true&width=600&lines=Building+things+from+scratch+%F0%9F%9A%80;Web+%7C+Software+%7C+3D+%7C+AI;Learning+by+Building%2C+Every+Day+%F0%9F%94%A5" alt="Typing SVG" />
 </p>
-
+ 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Lamsterla&label=Profile%20Views&color=4F46E5&style=flat" alt="profile views" /> 
   <img src="https://img.shields.io/badge/Status-Building%20Cool%20Stuff-success?style=flat&logo=rocket" alt="status" />
